@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2026_FIFA_World_Cup_logo.svg/512px-2026_FIFA_World_Cup_logo.svg.png" group-title="Sports",FIFA World Cup 2026
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2026_FIFA_World_Cup_logo.svg/512px-2026_FIFA_World_Cup_logo.svg.png" group-title="Sports",TOFFEE
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_Broadcasting_Company_logo.svg" group-title="Sports",FOX
