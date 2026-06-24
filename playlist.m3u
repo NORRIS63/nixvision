@@ -7,3 +7,9 @@ https://inproviszon.st/fox-1.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-logo="" group-title="Sports",FIFA
 https://cdn.fifalive.click/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Beetv Sports
+https://edge08-alm.beetv.kz/bpk-token/3an@ejvcai10vkaa30j3z1julkfaqojkvaa0el1s1lca/bpk-tv/000003038/tve/000003038-audio_82882_rus=82400-video=5287600.m3u8?bkm-query
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",CETIN Sports
+https://15-str10-prod.tv.cetin.cz/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6IjIifQ.eyJleHAiOiIxNzgyMzEwNTUyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlLzMyMTcvaGxzLWNsZWFyLyIsInNlc3Npb25fY2RuX2lkIjoiMzdlZjZmMmM0ZmY5ZGFlNiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIxMzU0NTMyNSIsImRldmljZV9pZCI6IjBlMjU3N2U2LWYwYzUtNDU3MC1hODQ3LWIwODRmZWFhZTI1MiIsIm1heF9zZXNzaW9ucyI6MTAwLCJ1cmwiOiJodHRwczovLzE5NC4yMjguNzcuMzAiLCJzZXNzaW9uX3RpbWVvdXQiOjM2MDAsImF1ZCI6Ijc2Iiwic291cmNlcyI6Wzk0LDg0XX0.jQ5JEc3fMaEaTJwGsEFQNetqnC_nOX-aQLAmK7YchZqe8-ywvuQpwby8auGtxnr-36-Q55_3J82-eTFj7LjU5Q/live/3217/hls-clear/3217-avc1_2100000=10002-mp4a_128000_ads_RMAD=20002.m3u8?stream_type=live
